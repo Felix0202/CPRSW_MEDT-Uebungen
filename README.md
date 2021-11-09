@@ -1,6 +1,6 @@
 # Medientechnik
 
-- [Würfel Übung 1](./Ü1-10_Würfel/Ü1/index.html)
+- [Würfel Übung 1](./../Ü1-10_Würfel/Ü1/index.html)
 - [Würfel Übung 2](./Ü1-10_Würfel/Ü2/index.html)
 - [Würfel Übung 3](./Ü1-10_Würfel/Ü3/index.html)
 - [Würfel Übung 4](./Ü1-10_Würfel/Ü4/index.html)
