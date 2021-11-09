@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width: 50px;
+}
+
+#output1, #output2{
+    display: flex;
+}
+
+#winner_img{
+    padding-left: 10px;
+}
+
+#winner_img > img{
+    border: 5px green solid;
+}
+
+#loser_img{
+    margin-left: 10px;
+    opacity: 80%;
+}
+
+#winner{
+    color: green;
+}
+
+#loser{
+    color: red;
+}
+
+#button{
+    text-align: center;
+}
+
+#button > p{
+    width: 15vw;
+    border: 1px black solid;
+}
